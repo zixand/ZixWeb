@@ -107,10 +107,10 @@ color: #C1C1B8;
  
 div.uno{
 
-	height: 5px;
-	width:50px;
-	top: 15px;
-	left: -20px;
+	height: 8px;
+	width:145px;
+	top: 50px;
+	left: -40px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
@@ -120,10 +120,10 @@ div.uno{
 
 div.due{
 
-	height: 5px;
-	width:145px;
+	height: 8px;
+	width: 620px;
 	top: 50px;
-	left: -70px;
+	left: -185px;
 	position: fixed;
 	background-color: #EB5E28;
 	transform: rotate(-45deg); 
@@ -133,10 +133,10 @@ div.due{
 
 div.tre{
 
-	height: 5px;
-	width:450px;
+	height: 8px;
+	width:700px;
 	top: 50px;
-	left: -180px;
+	left: -130px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
@@ -147,10 +147,10 @@ div.tre{
 
 div.quattro{
 
-	height: 5px;
+	height: 8px;
 	width:800px;
-	top: 50px;
-	left: -300px;
+	top: 170px;
+	left: -170px;
 	position: fixed;
 	background-color: #EB5E28;
 	transform: rotate(-45deg); 
@@ -160,10 +160,10 @@ div.quattro{
 
 div.cinque{
 
-	height: 5px;
-	width:800px;
-	top: 50px;
-	left: -230px;
+	height: 8px;
+	width:1100px;
+	top: 300px;
+	left: -300px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
@@ -174,10 +174,10 @@ div.cinque{
 
 div.unos{
 
-	height: 5px;
-	width:50px;
-	bottom: 15px;
-	right: -10px;
+	height: 8px;
+	width:145px;
+	bottom: 50px;
+	right: -40px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
@@ -187,10 +187,10 @@ div.unos{
 
 div.dues{
 
-	height: 5px;
-	width:145px;
+	height: 8px;
+	width:620px;
 	bottom: 50px;
-	right: -45px;
+	right: -185px;
 	position: fixed;
 	background-color: #EB5E28;
 	transform: rotate(-45deg); 
@@ -200,10 +200,10 @@ div.dues{
 
 div.tres{
 
-	height: 5px;
-	width:450px;
+	height: 8px;
+	width:700px;
 	bottom: 50px;
-	right: -150px;
+	right: -130px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
@@ -214,10 +214,10 @@ div.tres{
 
 div.quattros{
 
-	height: 5px;
+	height: 8px;
 	width:800px;
-	bottom: 50px;
-	right: -280px;
+	bottom: 170px;
+	right: -170px;
 	position: fixed;
 	background-color: #EB5E28;
 	transform: rotate(-45deg); 
@@ -227,10 +227,10 @@ div.quattros{
 
 div.cinques{
 
-	height: 5px;
-	width:800px;
-	bottom: 50px;
-	right: -210px;
+	height: 8px;
+	width: 1100px;
+	bottom: 300px;
+	right: -300px;
 	position: fixed;
 	background-color: white;
 	transform: rotate(-45deg); 
