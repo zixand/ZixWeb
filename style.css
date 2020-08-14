@@ -32,6 +32,7 @@ a{
 
 text-decoration: none;
 color: white;
+ transition-duration: 0.4s;
 
 }
 nav{
@@ -247,8 +248,16 @@ div.middle{
     height: 100px;
 
 }
+div.middle{
 
-img{
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    height: 100px;
+
+}
+
+img.intro{
 position: relative;
 top: -6px;
 left: -13px;
@@ -286,5 +295,44 @@ border-radius: 200px;
 background-color: #EB5E28;
 bottom: -100px;
 left: -100px;
+
+}
+
+div.center{
+
+position: absolute;
+top: 38%;   
+width: 100%;
+height: 260px;
+text-align: center;
+display: inline;
+
+
+}
+
+h1.e404{
+
+display: inline; 
+font-size: 180px;
+margin: 0px;
+padding: 5px;
+
+
+}
+
+
+
+.buttone404{
+
+cursor: pointer;
+display: inline-block;
+
+}
+
+
+.buttone404:hover{
+
+color: #EB5E28;
+border: 1px solid #EB5E28; //non va 
 
 }
