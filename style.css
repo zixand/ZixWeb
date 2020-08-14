@@ -106,7 +106,7 @@ color: #C1C1B8;
  
 div.uno{
 
-	height: 3px;
+	height: 5px;
 	width:50px;
 	top: 15px;
 	left: -20px;
@@ -119,7 +119,7 @@ div.uno{
 
 div.due{
 
-	height: 3px;
+	height: 5px;
 	width:145px;
 	top: 50px;
 	left: -70px;
@@ -132,7 +132,7 @@ div.due{
 
 div.tre{
 
-	height: 3px;
+	height: 5px;
 	width:450px;
 	top: 50px;
 	left: -180px;
@@ -146,7 +146,7 @@ div.tre{
 
 div.quattro{
 
-	height: 3px;
+	height: 5px;
 	width:800px;
 	top: 50px;
 	left: -300px;
@@ -159,7 +159,7 @@ div.quattro{
 
 div.cinque{
 
-	height: 3px;
+	height: 5px;
 	width:800px;
 	top: 50px;
 	left: -230px;
@@ -173,7 +173,7 @@ div.cinque{
 
 div.unos{
 
-	height: 3px;
+	height: 5px;
 	width:50px;
 	bottom: 15px;
 	right: -10px;
@@ -186,7 +186,7 @@ div.unos{
 
 div.dues{
 
-	height: 3px;
+	height: 5px;
 	width:145px;
 	bottom: 50px;
 	right: -45px;
@@ -199,7 +199,7 @@ div.dues{
 
 div.tres{
 
-	height: 3px;
+	height: 5px;
 	width:450px;
 	bottom: 50px;
 	right: -150px;
@@ -213,7 +213,7 @@ div.tres{
 
 div.quattros{
 
-	height: 3px;
+	height: 5px;
 	width:800px;
 	bottom: 50px;
 	right: -280px;
@@ -226,7 +226,7 @@ div.quattros{
 
 div.cinques{
 
-	height: 3px;
+	height: 5px;
 	width:800px;
 	bottom: 50px;
 	right: -210px;
