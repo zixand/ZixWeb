@@ -1,0 +1,291 @@
+html, body{
+
+	margin: 0px;
+	padding: 0px;
+	border: 0px; 
+	text-decoration: none;
+	color: white;
+	background-color: #403D39;
+	font-family: abandoned;
+	height: 100%;
+	position: static;
+	min-height: 600px;
+
+}
+
+
+ *{
+ 
+ box-sizing: border-box;
+ 
+ }
+
+
+@font-face{
+
+font-family: abandoned;
+ src: url(/font/Abandoned.ttf);
+
+}
+
+a{
+
+text-decoration: none;
+color: white;
+
+}
+nav{
+ position: absolute; 
+ top: 0px;
+ width: 100%;
+ height: 100px; 
+ background-color: #252422;
+ opacity: 0.8;
+ z-index: 100;
+ }
+ 
+li{
+ 
+ display: inline;
+ font-size: 45px;
+
+ }
+ 
+ 
+hr{
+
+display: block;
+margin-right: auto;
+margin-left: auto;
+height: 5px;
+background-color: white;
+overflow: hidden;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0px;
+border: 0px;
+ 
+ }
+ 
+ 
+ h1{
+ 
+ margin: 0px;
+ padding: 0px;
+ border: 0px;
+ font-size: 3.5em;
+ width: 70%;
+ text-align: center;
+ margin-left: 15%;
+ margin-right: 15%;
+ 
+ }
+ 
+h1.second{
+	
+transform: rotate(180deg); 
+transform: rotateX(180deg); 
+color: #C1C1B8;
+ 
+ }
+ 
+ 
+ h3{
+ 
+ position: realtive;
+ width: 100%;
+ height: 80px;
+ padding-top: 50px;
+ margin-top: -130px;
+ text-align: center;
+ opacity: 0.5;
+ font-size: 35px;
+ 
+ 
+ }
+ 
+ 
+div.uno{
+
+	height: 3px;
+	width:50px;
+	top: 15px;
+	left: -20px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.due{
+
+	height: 3px;
+	width:145px;
+	top: 50px;
+	left: -70px;
+	position: fixed;
+	background-color: #EB5E28;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.tre{
+
+	height: 3px;
+	width:450px;
+	top: 50px;
+	left: -180px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+
+div.quattro{
+
+	height: 3px;
+	width:800px;
+	top: 50px;
+	left: -300px;
+	position: fixed;
+	background-color: #EB5E28;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.cinque{
+
+	height: 3px;
+	width:800px;
+	top: 50px;
+	left: -230px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+
+div.unos{
+
+	height: 3px;
+	width:50px;
+	bottom: 15px;
+	right: -10px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.dues{
+
+	height: 3px;
+	width:145px;
+	bottom: 50px;
+	right: -45px;
+	position: fixed;
+	background-color: #EB5E28;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.tres{
+
+	height: 3px;
+	width:450px;
+	bottom: 50px;
+	right: -150px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+
+div.quattros{
+
+	height: 3px;
+	width:800px;
+	bottom: 50px;
+	right: -280px;
+	position: fixed;
+	background-color: #EB5E28;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+div.cinques{
+
+	height: 3px;
+	width:800px;
+	bottom: 50px;
+	right: -210px;
+	position: fixed;
+	background-color: white;
+	transform: rotate(-45deg); 
+	opacity: 0.4;
+
+}
+
+
+
+div.middle{
+
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    height: 100px;
+
+}
+
+img{
+position: relative;
+top: -6px;
+left: -13px;
+height: 30px;
+width: auto;
+
+}
+
+i{
+
+width: 50px;
+margin-top: 25px;
+
+}
+
+a:hover{
+
+color: #EB5E28;
+
+}
+
+#container{
+
+min-height: 100%;
+
+}
+
+
+.cerchio{
+	
+position: fixed;
+width: 200px;
+height: 200px;
+border-radius: 200px;
+background-color: #EB5E28;
+bottom: -100px;
+left: -100px;
+
+}
